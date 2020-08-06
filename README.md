@@ -1,0 +1,2 @@
+# Big-Data-Processing-using-Spark-and-Hadoop-in-a-Cloud-environment
+The primary goal we strived to achieve is the ability to process large amounts of data and convey the results of our analysis through informative visualizations. We used the UMBC Big Data Cluster to classify images of animals and birds using the MobileNet pre-trained model. We calculated accuracies for each label and plotted the distribution. Later, we performed Reverse Image Search and Image Ranking.
